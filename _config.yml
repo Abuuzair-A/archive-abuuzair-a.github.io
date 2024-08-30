@@ -8,7 +8,7 @@ author:
   email: abuuzair.c@gmail.com
   url: abuuzair-a.github.io
 
-baseurl: [The base url for this blog.]
+baseurl: /
 paginate: 
 owner: Abuuzair Ansari
 year: 2024
