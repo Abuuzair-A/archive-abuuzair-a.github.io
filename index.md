@@ -16,7 +16,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Header 2
 
-<script src="https://tryhackme.com/badge/1225520"></script>
+<iframe src="https://tryhackme.com/badge/122590" frameborder="0" scrolling="no" width="180px" height="55px"></iframe>
 <!--
 > This is a blockquote following a header.
 >
