@@ -14,9 +14,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## TryHackMe Top 0.3%
 
-<a href="https://tryhackme.com"><img src="/assets/abuu-badgetryhackme31aug.png" alt="TryHackMe"></a>
+<a href="https://tryhackme.com/p/abuu" target="_blank"><img src="/assets/abuu-badgetryhackme31aug.png" alt="TryHackMe"></a>
 
 <!--
 > This is a blockquote following a header.
