@@ -16,9 +16,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Header 2
 
-<iframe src="https://tryhackme.com/badge/122590" frameborder="0" scrolling="no" width="180px" height="55px"></iframe>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="abuuzair-a-2164901b2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/abuuzair-a-2164901b2?trk=profile-badge">Abuuzair A.</a></div>
+<img src="/assets/abuu-badgetryhackme31aug.png" alt="TryHackMe">
 
 <!--
 > This is a blockquote following a header.
