@@ -16,10 +16,11 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Connect on
 
-1. Linkedin
-2. Github
+1. Linkedin 
+{% include linkedin-badge.html %}
+2. <a href="https://github.com/Abuuzair-A" target="_blank">Github</a>
 3. Mail
-4. TryHackMe
+4. <a href="https://tryhackme.com/p/abuu" target="_blank">TryHackMe</a>
 5. CTF
 
 ```
