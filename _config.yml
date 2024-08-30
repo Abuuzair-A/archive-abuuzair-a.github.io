@@ -3,3 +3,12 @@ description: This website is an endeavor from my side to make projects and exper
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+author:
+  name: Abuuzair Ansari
+  email: abuuzair.c@gmail.com
+  url: abuuzair-a.github.io
+
+baseurl: [The base url for this blog.]
+paginate: 
+owner: Abuuzair Ansari
+year: 2024
