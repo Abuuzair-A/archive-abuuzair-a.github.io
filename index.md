@@ -18,6 +18,10 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 <a href="https://tryhackme.com/p/abuu" target="_blank"><img src="/assets/abuu-badgetryhackme31aug.png" alt="TryHackMe"></a>
 
+## LinkedIn Profile
+
+{% include linkedin-badge.html %}
+
 <!--
 > This is a blockquote following a header.
 >
