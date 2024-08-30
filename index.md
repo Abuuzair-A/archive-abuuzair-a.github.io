@@ -16,7 +16,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Header 2
 
-<img src="/assets/abuu-badgetryhackme31aug.png" alt="TryHackMe">
+<a href="https://tryhackme.com"><img src="/assets/abuu-badgetryhackme31aug.png" alt="TryHackMe"></a>
 
 <!--
 > This is a blockquote following a header.
